@@ -23,12 +23,6 @@
   </url>
   
   <url>
-    <loc>http://katamen.com/</loc>
-    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://katamen.com/page/</loc>
     <lastmod>2018-04-29T04:20:34+09:00</lastmod>
     <priority>0</priority>
@@ -42,6 +36,12 @@
   
   <url>
     <loc>http://katamen.com/post/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/</loc>
     <lastmod>2018-04-29T04:35:57+09:00</lastmod>
     <priority>0</priority>
   </url>
