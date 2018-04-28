@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Natrium Theme</title>
-    <link>https://studiokatamen.github.io/tags/</link>
+    <link>http://katamen.com/tags/</link>
     <description>Recent content in Tags on Natrium Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://studiokatamen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://katamen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>自嗨</title>
-      <link>https://studiokatamen.github.io/tags/%E8%87%AA%E5%97%A8/</link>
+      <link>http://katamen.com/tags/%E8%87%AA%E5%97%A8/</link>
       <pubDate>Sun, 29 Apr 2018 04:35:57 +0900</pubDate>
       
-      <guid>https://studiokatamen.github.io/tags/%E8%87%AA%E5%97%A8/</guid>
+      <guid>http://katamen.com/tags/%E8%87%AA%E5%97%A8/</guid>
       <description></description>
     </item>
     
