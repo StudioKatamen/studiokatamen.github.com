@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://katamen.com/extending-this-logic/</loc>
+    <loc>http://katamen.com/studio_setup/</loc>
     <lastmod>2018-04-29T04:35:57+09:00</lastmod>
   </url>
   
@@ -29,12 +29,6 @@
   </url>
   
   <url>
-    <loc>http://katamen.com/categories/post/</loc>
-    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://katamen.com/post/</loc>
     <lastmod>2018-04-29T04:35:57+09:00</lastmod>
     <priority>0</priority>
@@ -53,6 +47,12 @@
   
   <url>
     <loc>http://katamen.com/categories/%E6%95%B4%E4%BD%93/</loc>
+    <lastmod>2018-04-29T04:35:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://katamen.com/categories/%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2018-04-29T04:35:57+09:00</lastmod>
     <priority>0</priority>
   </url>

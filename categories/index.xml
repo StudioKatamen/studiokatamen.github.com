@@ -11,20 +11,20 @@
     
     
     <item>
-      <title>Post</title>
-      <link>http://katamen.com/categories/post/</link>
-      <pubDate>Sun, 29 Apr 2018 04:35:57 +0900</pubDate>
-      
-      <guid>http://katamen.com/categories/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>整体</title>
       <link>http://katamen.com/categories/%E6%95%B4%E4%BD%93/</link>
       <pubDate>Sun, 29 Apr 2018 04:35:57 +0900</pubDate>
       
       <guid>http://katamen.com/categories/%E6%95%B4%E4%BD%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文章</title>
+      <link>http://katamen.com/categories/%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Sun, 29 Apr 2018 04:35:57 +0900</pubDate>
+      
+      <guid>http://katamen.com/categories/%E6%96%87%E7%AB%A0/</guid>
       <description></description>
     </item>
     
